@@ -125,8 +125,8 @@ public class DialogueTreeExample : MonoBehaviour
         var n23 = new BinaryTreeNode<string>("Hasta pronto, viajero");
 
         var n30 = new BinaryTreeNode<string>("Vuelve pronto, viajero");
-        var n31 = new BinaryTreeNode<string>("Tengo unas misiones para ti!");
-        var n32 = new BinaryTreeNode<string>("2");
+        var n31 = new BinaryTreeNode<string>("Respuesta 1");
+        var n32 = new BinaryTreeNode<string>("Respuesta 2");
         var n33 = new BinaryTreeNode<string>("");
 
 
